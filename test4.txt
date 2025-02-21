@@ -1,0 +1,2 @@
+to see cntent of file we use cat command .
+
